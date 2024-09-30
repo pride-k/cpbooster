@@ -16,7 +16,7 @@
     along with this program.  If not, see <https://www.gnu.org/licenses/>.
  */
 
-import { Page } from "playwright-chromium";
+import { Page } from "playwright-firefox";
 import OnlineJudge from "./OnlineJudge";
 import { OnlineJudgeName } from "../../Config/Types/OnlineJudgeName";
 
